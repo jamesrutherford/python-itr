@@ -1,6 +1,6 @@
 class myPet():
     def __init__(self, name, species, breed, age, is_good, is_adult):
-        """Initialization for the myPet Class"""
+        """Initialization for the myPet Class - new text"""
         self.name = name
         self.species = species
         self.breed  = breed
